@@ -2,7 +2,6 @@ package com.example.MyGitTest;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("hello");
         System.out.println("Hello from MyApp!");
     }
 
@@ -10,4 +9,5 @@ public class App {
         return a + b;
     }
 }
+
 
